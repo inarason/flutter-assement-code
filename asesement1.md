@@ -135,6 +135,7 @@ We will evaluate:
 * Proper Flutter widget usage
 * Clean and readable code
 * Logical structure
+* Data Caching 
 
 Suggested structure (optional):
 
