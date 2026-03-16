@@ -16,7 +16,7 @@ This assessment evaluates:
 
 * Flutter fundamentals
 * UI building
-* Basic state management
+* state management
 * Code readability
 
 ---
