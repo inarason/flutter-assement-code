@@ -1,6 +1,6 @@
 
 
-# Flutter Coding Assessment – Simple Notes App
+# Flutter Coding Assessment  Simple Notes App
 
 ## Time Limit
 
@@ -96,11 +96,7 @@ Use:
 
 * **Flutter**
 * **Null safety**
-
-State management:
-
-* `setState` is acceptable for this task.
-
+State management
 ---
 
 # UI Requirements
@@ -136,6 +132,7 @@ We will evaluate:
 * Clean and readable code
 * clean  structure
 * Data Caching 
+
 
 
 Suggested structure (optional):
